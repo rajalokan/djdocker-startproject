@@ -1,0 +1,2 @@
+myproject		Project name
+mydbtype        Type of database you would like (mysql/sqlite/postgres)
